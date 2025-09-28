@@ -1,4 +1,4 @@
-@echo off
+      1@echo off
 echo 正在启动风险等级判定器服务器...
 echo.
 
